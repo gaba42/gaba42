@@ -1,4 +1,4 @@
-Hi there, I'm gaba42 👋
+Hi there, I'm gaba42 👋</br>
 🤖 Just another AI engineer trying to **survive the hype** and **build things that matter**
 
 ---
@@ -8,7 +8,7 @@ Hi there, I'm gaba42 👋
 - 한빛미디어 | [혼자 공부하는 C언어(개정판)](https://m.hanbit.co.kr/store/books/book_view.html?p_code=B1854329839) 베타리더 (23.03 - 23.04)
 - WIPS | AI Researcher (22.11 - Present)
 
-
+---
 
 ### 🚀 Projects 
 1. Applicant Limited Similar Patent Search System
