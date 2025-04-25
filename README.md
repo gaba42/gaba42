@@ -1,4 +1,4 @@
-Hi there, I'm gaba42 👋</br>
+Hi there, I'm microz42 👋</br>
 🤖 Just another AI engineer trying to **survive the hype** and **build things that matter**
 
 ---
